@@ -12,7 +12,7 @@ enum control_mirror_switch {UP = 0, DOWN = 1, LEFT_CONTROL = 2, RIGHT_CONTROL = 
 
 int Fold_Unfold_Mirror, selection_Mirror, control_Mirror;
 int ignition_swt;
- 
+ //aswini
 int main()
  {
     printf("Enter ignition switch (0 for OFF, 1 for ACC, 2 for ON, 3 for START): ");
